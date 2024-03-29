@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Mitchell Foote
 - 👀 I’m interested in Desktop, Mobile, and Web Development.
 - 🌱 I’m currently finishing my Computer Science BS at Eastern Michigan University
-- 💞️ I’m looking to gain more hands on experience in the industry.
+- 💞️ I’m looking to gain more hands-on professional experience in the industry.
 - 📫 How to reach me mcfoote321@gmail.com
 
 <!---
